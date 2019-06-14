@@ -6,6 +6,12 @@
       "name": "Polyweb s.r.o.",
       "email": "info@polyweb.cz",
       "homepage": "https://poylweb.cz",
+      "role": "Owner"
+    },
+    {
+      "name": "Aleš Pázner",
+      "email": "ap@polyweb.cz",
+      "homepage": "https://pazny.eu",
       "role": "Developer"
     }
   ]
